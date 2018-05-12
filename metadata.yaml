@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25839'
     url: http://www.gutenberg.org/2009/agents/25839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23434#An-Elementary-Study-of-Insects
 gutenberg_bookshelf:
 - Biology
 - Animals-Wild-Insects
