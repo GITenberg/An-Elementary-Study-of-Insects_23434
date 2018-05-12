@@ -1,0 +1,30 @@
+_repo: An-Elementary-Study-of-Insects_23434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haseman, Leonard
+    birthdate: 1884
+    deathdate: 1969
+    gutenberg_agent_id: '25839'
+    url: http://www.gutenberg.org/2009/agents/25839
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Animals-Wild-Insects
+gutenberg_issued: '2007-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23434'
+  lccn: '23013240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects'
+- !lcc 'QL'
+title: An Elementary Study of Insects
+url: http://www.gutenberg.org/ebooks/23434
